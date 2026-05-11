@@ -1,5 +1,5 @@
 ---
-title: "Hampi: The Ruined Capital of the Vijayanagara Empire"
+title: 'Hampi: The Ruined Capital of the Vijayanagara Empire'
 date: 2026-05-08T10:00:00+05:30
 lastmod: 2026-05-08T10:00:00+05:30
 draft: false
@@ -12,15 +12,15 @@ tags:
   - heritage
   - karnataka
   - vijayanagara
-image: https://images.unsplash.com/photo-1600439614353-174ad0ee3b24?w=1200&fm=webp&q=80
-image_caption: "The Virupaksha Temple at Hampi, one of the oldest functioning temples in India."
+image: https://picsum.photos/id/125/1920/1280.webp
 show_in_slider: true
 states:
   - karnataka
 featureinhomepage: true
-priority: primary
 toc: true
 comments: true
+priority: primary
+image_caption: The Virupaksha Temple at Hampi, one of the oldest functioning temples in India.
 ---
 
 ## A City Frozen in Stone
