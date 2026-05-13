@@ -14,14 +14,14 @@ tags:
   - karnataka
   - travel
 image: https://images.unsplash.com/photo-1586500036706-41963de24d8b?w=1200&fm=webp&q=80
-show_in_slider: false
+show_in_slider: true
 states:
   - karnataka
-featureinhomepage: false
+featureinhomepage: true
 toc: true
 comments: true
-priority: secondary
 image_caption: Sunrise over a coffee plantation in Coorg, Kodagu district, Karnataka.
+priority: secondary
 ---
 
 ## Where the Coffee Comes From
