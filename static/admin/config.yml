@@ -1,13 +1,13 @@
 backend:
   name: github
-  repo: anand-raj/cms-theme2-karnataka
+  repo: breakthrough-india/cms-karnataka
   branch: main
-  base_url: https://sveltia-cms-auth.e-anandraj.workers.dev
+  base_url: https://cms-auth.breakthrough-india.workers.dev
 
 media_folder: content/articles
 public_folder: /articles
 
-site_url: https://anand-raj.github.io/cms-theme2/states/karnataka/
+site_url: https://breakthrough-india.github.io/cms/states/karnataka/
 
 collections:
   - name: articles
