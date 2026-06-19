@@ -20,6 +20,8 @@ Breakthrough Science Society, Davanagere in association with Puneeth Rajkumar PU
 
 Environment Day program commenced with the planting of saplings, followed by a series of guest lectures.
 
+[![](https://pub-d125678e734647aeb774df3e25dd6abc.r2.dev/2026/06/environment-day-davangere-2026-img2.jpg)](https://pub-d125678e734647aeb774df3e25dd6abc.r2.dev/2026/06/environment-day-davangere-2026-img2.jpg)
+
 The program was inaugurated by Shri B.N. Mallesh, Administrative Officer of Puneeth Rajkumar PU College. In his address, he stated that celebrating Environment Day shouldn’t just be about planting a sapling on that specific day; instead, we must incorporate several changes into our daily lives to ensure our actions complement the environment. He emphasized that to achieve this, we first need to develop and strengthen a scientific temperament within ourselves, and noted that the lecture sessions organized today would be helpful in this regard.
 
 Speaking as the chief guest of the event, Shri Anand Raj, President of the Breakthrough Science Society, expressed that along with individual efforts to correct climate anomalies, strict policy regulations must be implemented at both national and international levels.
