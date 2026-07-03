@@ -32,4 +32,4 @@ Around 40 children enthusiastically participated in the event.
 
 **Concluding Session:** During the valedictory ceremony, Shri Gururaj Doddamani (Teacher & District Organizer) educated the children on the significance of science and the mission of the Breakthrough Science Society.
 
-The camp also included an engaging session of interactive games and activities conducted by Ms Saroja (Teacher)
+The camp also included an engaging session of interactive games and activities conducted by Ms Saroja H Bisana lli(Teacher)
