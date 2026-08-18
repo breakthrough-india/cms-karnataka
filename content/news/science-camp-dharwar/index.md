@@ -4,7 +4,7 @@ slug: science-camp-dharwar
 date: 2026-06-21T00:23:00+05:30
 lastmod: 2026-06-25T00:23:00+05:30
 draft: false
-description: A one-day science camp was successfully organized at the Sahitya Bhavan by the Dharwad unit of the Breakthrough Science Society on the occasion on World Environment Day.
+description: A one-day science camp was successfully organized at the Sahitya Bhavan by the Dharwad unit of the Breakthrough Science Society.
 author: Admin
 categories:
   - News
