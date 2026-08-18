@@ -3,6 +3,7 @@ backend:
   repo: breakthrough-india/cms-karnataka
   branch: main
   base_url: https://cms-auth.breakthrough-science-society.workers.dev
+  auth_endpoint: karnataka/auth
 
 media_folder: content/articles
 public_folder: /articles
